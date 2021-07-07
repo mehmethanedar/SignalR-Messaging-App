@@ -1,0 +1,513 @@
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\obj\Debug\ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\ChatApplication.dll.config
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\ChatApplication.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\ChatApplication.pdb
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csc.exe
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csc.exe.config
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csc.rsp
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csi.exe
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csi.exe.config
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\csi.rsp
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Console.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\vbc.exe
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\vbc.exe.config
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\vbc.rsp
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Antlr3.Runtime.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\EntityFramework.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Newtonsoft.Json.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Owin.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Helpers.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Mvc.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Optimization.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Razor.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\WebGrease.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\EntityFramework.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Helpers.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Mvc.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Optimization.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.Razor.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Newtonsoft.Json.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\obj\Debug\ChatApplication.csproj.CopyComplete
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\obj\Debug\ChatApplication.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\obj\Debug\ChatApplication.pdb
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Buffers.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.IO.Pipelines.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Memory.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Threading.Channels.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Buffers.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.IO.Pipelines.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Memory.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Threading.Channels.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet Hanedar\source\repos\ChatApplication\obj\Debug\ChatApplication.csprojAssemblyReference.cache
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\ChatApplication.dll.config
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\ChatApplication.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\ChatApplication.pdb
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csc.exe
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csc.exe.config
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csc.rsp
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csi.exe
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csi.exe.config
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\csi.rsp
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Console.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\vbc.exe
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\vbc.exe.config
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\vbc.rsp
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Antlr3.Runtime.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\EntityFramework.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Newtonsoft.Json.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Owin.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Buffers.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.IO.Pipelines.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Memory.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Threading.Channels.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Helpers.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Mvc.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Optimization.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Razor.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\WebGrease.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\EntityFramework.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\Newtonsoft.Json.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Buffers.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.IO.Pipelines.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Memory.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Threading.Channels.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Helpers.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Mvc.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Optimization.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.Razor.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\obj\Debug\ChatApplication.csprojAssemblyReference.cache
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\obj\Debug\ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\obj\Debug\ChatApplication.csproj.CopyComplete
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\obj\Debug\ChatApplication.dll
+C:\Users\Mehmet Hanedar\Desktop\Yeni klasör (4)\ChatApplication\obj\Debug\ChatApplication.pdb
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\ChatApplication.dll.config
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\ChatApplication.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\ChatApplication.pdb
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csc.exe
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csc.exe.config
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csc.rsp
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csi.exe
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csi.exe.config
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\csi.rsp
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Console.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Net.Http.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\vbc.exe
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\vbc.exe.config
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\vbc.rsp
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Antlr3.Runtime.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\EntityFramework.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Options.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Newtonsoft.Json.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Owin.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Buffers.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.ComponentModel.Annotations.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.IO.Pipelines.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Memory.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Numerics.Vectors.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Security.Principal.Windows.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Text.Encodings.Web.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Threading.Channels.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Helpers.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Mvc.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Optimization.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Razor.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\WebGrease.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\EntityFramework.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Core.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.WebSockets.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Options.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\Newtonsoft.Json.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Buffers.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.IO.Pipelines.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Memory.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Numerics.Vectors.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Text.Encodings.Web.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Threading.Channels.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Helpers.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Mvc.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Optimization.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.Razor.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\obj\Debug\ChatApplication.csprojAssemblyReference.cache
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\obj\Debug\ChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\obj\Debug\ChatApplication.csproj.CopyComplete
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\obj\Debug\ChatApplication.dll
+C:\Users\Mehmet Hanedar\Desktop\ChatApplication\obj\Debug\ChatApplication.pdb
